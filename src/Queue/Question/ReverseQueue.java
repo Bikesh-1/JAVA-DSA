@@ -2,7 +2,6 @@ package Queue.Question;
 import java.util.*;
 public class ReverseQueue {
     public static void main(String[] args) {
-
         Queue<Integer> q = new LinkedList<>();
         Stack<Integer> st = new Stack<>();
         q.add(1);
